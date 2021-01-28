@@ -1,0 +1,33 @@
+solutionPage:
+productPage:
+  - hero:
+    - image:
+    - descrption: Hero description
+  - mainCard:
+    - title: Learn
+    - description: Learn to user CommerceHub
+    - button: link.html
+    - subCard:
+      - card:
+        - title: Getting Started
+        - descrption: Start NOW!
+        - moreButton: link.html
+      - card:
+        - title: Tutorials
+        - description: Tuts!
+        - moreButton: link.html
+  - mainCard:
+    - title: Build
+    - description: Build with CommerceHub
+    - button: link.html
+    - subCard:
+      - card:
+        - title: APIs
+        - descrption: Start NOW!
+        - moreButton: link.html
+      - card:
+        - title: SDKs
+        - description: Tuts!
+        - moreButton: link.html
+productCard:
+  - description: This is the CommerceHub
