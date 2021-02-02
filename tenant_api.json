@@ -1,0 +1,131 @@
+{
+  "title": "Carat",
+  "logoURL": "https://raw.githubusercontent.com/tomeck/transactionenrichmentstoplight/main/docs/carat_logo.png",
+  "description": "Our powerful omnichannel commerce solutions help companies reach untapped markets and expand globally without being limited by borders, currencies or old ways of thinking.\n      Carat's single-source commerce engine makes the process seamless, effortless, and secure. We've unified our suite of solutions into a powerful tech ecosystem so you can create commerce.\n      Carat's single-source commerce engine makes the process seamless, effortless, and secure. We've unified our suite of solutions into a powerful tech ecosystem so you can create commerce. Carat's single-source commerce engine makes the process seamless, effortless, and secure. We've unified our suite of solutions into a powerful tech ecosystem so you can create commerce.",
+  "categories": [
+    {
+      "categoryId": 100,
+      "name": "RETAIL",
+      "value": "Retail",
+      "subcategories": []
+    },
+    {
+      "categoryId": 101,
+      "name": "RESTAURANT",
+      "value": "Restaurant",
+      "subcategories": []
+    },
+    {
+      "categoryId": 102,
+      "name": "MOTO",
+      "value": "Moto (Mail Order Telephone Order)",
+      "subcategories": []
+    },
+    {
+      "categoryId": 103,
+      "name": "ECOMMERCE",
+      "value": "Ecommerce",
+      "subcategories": []
+    },
+    {
+      "categoryId": 104,
+      "name": "LODGING",
+      "value": "Lodging",
+      "subcategories": []
+    },
+    {
+      "categoryId": 105,
+      "name": "CAR_RENTAL",
+      "description": "Car Rental",
+      "subcategories": []
+    },
+    {
+      "categoryId": 106,
+      "name": "PETROLEUM",
+      "value": "Petro",
+      "subcategories": []
+    },
+    {
+      "categoryId": 107,
+      "name": "QSR",
+      "value": "QSR (Quick Service Restaurant)",
+      "subcategories": []
+    },
+    {
+      "categoryId": 117,
+      "name": "CASH_ADVANCE",
+      "description": "Cash Advance",
+      "subcategories": []
+    }
+  ],
+  "tags": [
+    "ecommerce",
+    "payments",
+    "Enterprise",
+    "Reporting"
+  ],
+  "solution": "Payments",
+  "products": [
+    {
+      "id": "1",
+      "categories": [
+        "ECOMMERCE",
+        "LODGING"
+      ],
+      "tags": [
+        "ecommerce",
+        "payments",
+        "Enterprise"
+      ],
+      "featured": true,
+      "name": "CommerceHub",
+      "title": "Commerce Hub",
+      "logoURL": "https://raw.githubusercontent.com/tomeck/transactionenrichmentstoplight/main/docs/carat_logo.png",
+      "description": "Authoritatively disseminate prospective leadership via opportunities economically sound.",
+      "apiSpecification": "/v1/products/commercehub/swagger",
+      "layout": "/v1/products/commercehub/layouts/productPage",
+      "documentation": "/v1/products/commercehub/docs"
+    },
+    {
+      "id": "2",
+      "name": "CLX",
+      "title": "ClientLineX",
+      "categories": [
+        "RETAIL",
+        "QSR"
+      ],
+      "tags": [
+        "Enterprise",
+        "Reporting"
+      ],
+      "featured": true,
+      "logoURL": "https://raw.githubusercontent.com/tomeck/transactionenrichmentstoplight/main/docs/carat_logo.png",
+      "description": "Authoritatively disseminate prospective leadership via opportunities economically sound.",
+      "apiSpecification": "/v1/products/CLX/swagger",
+      "documentation": "/v1/products/CLX/docs",
+      "layout": ""
+    },
+    {
+      "id": "3",
+      "title": "ACH",
+      "name": "ACH Invoices",
+      "categories": [
+        "ECOMMERCE",
+        "RETAIL",
+        "MOTO"
+      ],
+      "tags": [
+        "ecommerce",
+        "payments",
+        "Enterprise"
+      ],
+      "featured": false,
+      "logoURL": "https://raw.githubusercontent.com/tomeck/transactionenrichmentstoplight/main/docs/carat_logo.png",
+      "description": "Authoritatively disseminate prospective leadership via opportunities economically sound.",
+      "apiSpecification": "/v1/product/ACH/swagger",
+      "format": "yaml",
+      "documentation": "/v1/products/ACH/docs",
+      "layout": ""
+    }
+  ]
+}
