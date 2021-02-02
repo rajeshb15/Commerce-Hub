@@ -1,0 +1,50 @@
+productPage:
+  - hero:
+    - image: /assests/image/hero.png #???
+    - descrption: Hero description
+  - journey Cards:
+      - journeyCard:
+        - title: Learn # => learn | Learning With Pavan => learning-with-pavan
+        - description: Learn to user CommerceHub
+        - link: 
+          - type: markdown
+          - uri: /docs/learn.md
+        - contextualNavigationCards: #cnav card
+          - contextualNavigationCard:
+            - title: Getting Started
+            - description: Let's start!
+            - link: 
+              - type: markdown
+              - uri: /docs/getting-started.md
+          - contextualNavigationCard:
+            - title: Tutorials
+            - description: Let's tut!
+            - link: 
+              - type: markdown
+              - uri: /docs/tutorials.md
+          - contextualNavigationCard:
+            - title: Video
+            - description: Watch
+            - link: 
+              - type: externalLink # [externalLink | internalLink | markdown]
+              - uri: http://youtube.com/commercehub
+      - journeyCard:
+        - title: Build
+        - description: Build with CommerceHub
+        - link: 
+          - type: markdown
+          - uri: /docs/build.md
+        - contextualNavigationCards:
+          - contextualNavigationCard:
+            - title: SDKs
+            - description: Free SDKs!!!
+            - link: 
+              - type: markdown
+              - uri: /docs/sdks.md
+          - contextualNavigationCard:
+            - title: APIs
+            - description: API me!
+            - cardType: reference | page
+            - link: 
+              - type: internalLink
+              - uri: /docs/api # => http://dev.fiserv.com/docs/api
