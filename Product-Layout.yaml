@@ -42,18 +42,25 @@ productPage:
           - uri: /docs/build.md
         - contextualNavigationCards:
           - contextualNavigationCard:
-            - title: SDKs
-            - description: Free SDKs!!!
-            - link: 
-              - type: markdown
-              - uri: /docs/sdks.md
-          - contextualNavigationCard:
-            - title: APIs
-            - description: API me!
-            - cardType: reference | page
+            - title: API Reference
+            - description: Explore all our APIs
             - link: 
               - type: internalLink
-              - uri: /docs/api # => http://dev.fiserv.com/docs/api
+              - uri: /docs/apis
+          - contextualNavigationCard:
+            - title: Software Development Kits
+            - description: Use SDKs to accelarate your development
+            - cardType: reference | page
+            - link: 
+              - type: markdown
+              - uri: /docs/sdks.md # => http://dev.fiserv.com/docs/api
+          - contextualNavigationCard:
+            - title: Sample Code
+            - description: Free just like Costco samples & no limit
+            - cardType: reference | page
+            - link: 
+              - type: markdown
+              - uri: /docs/samples.md # => http://dev.fiserv.com/docs/api
       - journeyCard:
         - title: Test
         - description: 'Flex your app end-to-end in our full-featured Sandbox.
@@ -69,23 +76,23 @@ productPage:
           - uri: /docs/test.md
         - contextualNavigationCards: #cnav card
           - contextualNavigationCard:
-            - title: API Reference
-            - description: Let's start!
+            - title: Sandbox
+            - description: Use our sandbox to test your app end-to-end
             - link: 
-              - type: markdown
-              - uri: /docs/getting-started.md
+              - type: internalLink
+              - uri: /sandbox
           - contextualNavigationCard:
-            - title: SDKs
-            - description: Let's tut!
+            - title: Score Card
+            - description: See how your app is doing
             - link: 
-              - type: markdown
-              - uri: /docs/tutorials.md
+              - type: internalLink
+              - uri: /scorecard
           - contextualNavigationCard:
-            - title: Sample Code
-            - description: Watch
+            - title: Unit Testing
+            - description: Test with confidence
             - link: 
-              - type: externalLink # [externalLink | internalLink | markdown]
-              - uri: http://youtube.com/commercehub
+              - type: internalLink # [externalLink | internalLink | markdown]
+              - uri: /testing
       - journeyCard:
         - title: Deploy
         - description: 'When your app is ready for prime time, submit it for automated certification.
@@ -101,15 +108,20 @@ productPage:
           - uri: /docs/deploy.md
         - contextualNavigationCards:
           - contextualNavigationCard:
-            - title: SDKs
-            - description: Free SDKs!!!
+            - title: Certify
+            - description: Get your stamp of approval from us
             - link: 
               - type: markdown
-              - uri: /docs/sdks.md
+              - uri: /docs/certify.md
           - contextualNavigationCard:
-            - title: APIs
-            - description: API me!
-            - cardType: reference | page
+            - title: Deploy
+            - description: Ready, set, Deploy!
+            - link: 
+              - type: internalLink
+              - uri: /docs/api # => http://dev.fiserv.com/docs/api
+          - contextualNavigationCard:
+            - title: Operate
+            - description: Setup montioring and alerting
             - link: 
               - type: internalLink
               - uri: /docs/api # => http://dev.fiserv.com/docs/api
