@@ -95,9 +95,9 @@ productPage:
               - uri: /testing
       - journeyCard:
         - title: Deploy
-        - description: 'When your app is ready for prime time, submit it for automated certification. |+      
-        Your certified app is now ready to be deployed to Production. |+
-        Congratulations! |+
+        - description: 'When your app is ready for prime time, submit it for automated certification. >+     
+        Your certified app is now ready to be deployed to Production. 
+        Congratulations! 
         *Requires registration'
         - link: 
           - type: markdown
