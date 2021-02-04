@@ -67,7 +67,7 @@ productPage:
         
         Incorporate Sandbox testing into your CI pipeline.
         
-        Use our intelligent Test Tracker to discover parts of your app that need more attention. >+
+        Use our intelligent Test Tracker to discover parts of your app that need more attention. 
         
         *Requires registration'
         - link: 
@@ -96,7 +96,7 @@ productPage:
         - title: Deploy
         - description: 'When your app is ready for prime time, submit it for automated certification. 
         Your certified app is now ready to be deployed to Production. 
-        Congratulations! |       
+        Congratulations! >+   
         *Requires registration'
         - link: 
           - type: markdown
