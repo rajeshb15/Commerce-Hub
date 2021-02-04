@@ -48,7 +48,7 @@ productPage:
               - type: internalLink
               - uri: /docs/apis
           - contextualNavigationCard:
-            - title: Software Development Kits
+            - title: SDKs
             - description: Use SDKs to accelarate your development
             - cardType: reference | page
             - link: 
