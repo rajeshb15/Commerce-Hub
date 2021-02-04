@@ -100,7 +100,7 @@
       ],
       "featured": true,
       "logoURL": "https://raw.githubusercontent.com/tomeck/transactionenrichmentstoplight/main/docs/carat_logo.png",
-      "description": "Authoritatively disseminate prospective leadership via opportunities economically sound.",
+      "description": "ClientLine saves time and increases efficiency with real-time access to merchant account information. With statements and account history at your fingertips, you’re always in the know about your account activity, can streamline operations, and better serve your customers.",
       "apiSpecification": "/v1/products/CLX/swagger",
       "documentation": "/v1/products/CLX/docs",
       "layout": ""
@@ -121,7 +121,7 @@
       ],
       "featured": false,
       "logoURL": "https://raw.githubusercontent.com/tomeck/transactionenrichmentstoplight/main/docs/carat_logo.png",
-      "description": "Authoritatively disseminate prospective leadership via opportunities economically sound.",
+      "description": "Get a comprehensive, end-to-end ACH payment processing solution without the technology investment and management commitment with hosted ACH Processing Services from Fiserv.",
       "apiSpecification": "/v1/product/ACH/swagger",
       "format": "yaml",
       "documentation": "/v1/products/ACH/docs",
