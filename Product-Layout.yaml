@@ -16,7 +16,7 @@ productPage:
         - contextualNavigationCards: #cnav card
           - contextualNavigationCard:
             - title: Getting Started
-            - description: Use the Getting Start guide to learn about how to integrate with Commerce Hub
+            - description: Learn how to integrate with Commerce Hub.
             - link: 
               - type: markdown
               - uri: /docs/getting-started.md
