@@ -16,22 +16,22 @@ productPage:
         - contextualNavigationCards: #cnav card
           - contextualNavigationCard:
             - title: Getting Started
-            - description: Learn how to integrate with Commerce Hub.
+            - description: Get Started with Commerce Hub.
             - link: 
               - type: markdown
               - uri: /docs/getting-started.md
           - contextualNavigationCard:
             - title: Tutorials
-            - description: Let's tut!
+            - description: Learn how to integrate with Commerce Hub.
             - link: 
               - type: markdown
               - uri: /docs/tutorials.md
           - contextualNavigationCard:
             - title: Video
-            - description: Watch
+            - description: Watch how to create more unified commerce
             - link: 
               - type: externalLink # [externalLink | internalLink | markdown]
-              - uri: http://youtube.com/commercehub
+              - uri: https://www.youtube.com/watch?v=X8jKx8pPjrU
       - journeyCard:
         - title: Build
         - description: 'Build on top of our sample code to get your app coded in minutes.
