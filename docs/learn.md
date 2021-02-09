@@ -4,4 +4,4 @@ The beginning of an awesome article...
 
 
 
-[<- Back to Getting Started](getting-started.md)
+[<- Back to Getting Started](docs/getting-started.md)
