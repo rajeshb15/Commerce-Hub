@@ -42,7 +42,7 @@
   ],
   "brand" : "Carat",
   "solution": "Payments",
-  "products":
+  "product":
     {
       "name": "CommerceHub",
       "title": "Commerce Hub",
