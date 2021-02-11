@@ -23,14 +23,14 @@
       "name": "Industry type",
       "value": "Industry type:",
       "subcategories": [
-        "Retail / QSR",
+        "Retail/QSR",
         "Restuarant",
         "Petroleum",
         "Supermarket",
         "Lodging",
         "Airline",
         "eCommerce",
-        "MOTO / Direct Marketing"
+        "MOTO/Direct Marketing"
       ]
     }
   ],
