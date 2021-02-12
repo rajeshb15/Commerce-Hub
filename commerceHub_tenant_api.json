@@ -11,15 +11,15 @@
       "value": "Business Types",
       "subcategories": [
         {
-          "name": "Enterprise",
+          "name": "enterprise",
           "value": "Enterprise"
         },
         {
-          "name": "SMB",
+          "name": "smb",
           "value": "SMB"
         },
         {
-          "name": "Banking",
+          "name": "banking",
           "value": "Banking"
         }
       ]
