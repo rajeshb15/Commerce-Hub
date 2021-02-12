@@ -12,9 +12,9 @@ Here are some resources that we recommend taking a look at!
 ### Integration docs
 
 * Commerce Hub Docs: [https://dev.fiserv.com/commercehub/docs](https://dev.fiserv.com/commercehub/docs)
-* API Docs: https://dev.fiserv.com/commercehub/docs/api
-* Commerce Hub.js Reference: https://dev.fiserv.com/commercehub/docs/js
-* FAQs: https://support.dev.fiserv.com/commercehub/
+* API Docs: [https://dev.fiserv.com/commercehub/docs/api] (https://dev.fiserv.com/commercehub/docs/api)
+* Commerce Hub.js Reference: [https://dev.fiserv.com/commercehub/docs/js] (https://dev.fiserv.com/commercehub/docs/api)
+* FAQs: [https://support.dev.fiserv.com/commercehub/] (https://support.dev.fiserv.com/commercehub/)
 
 ### Repository & tools
 
