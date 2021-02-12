@@ -12,22 +12,22 @@ Here are some resources that we recommend taking a look at!
 ### Integration docs
 
 * Commerce Hub Docs: [https://dev.fiserv.com/commercehub/docs](https://dev.fiserv.com/commercehub/docs)
-* API Docs: [https://dev.fiserv.com/commercehub/docs/api] (https://dev.fiserv.com/commercehub/docs/api)
-* Commerce Hub.js Reference: [https://dev.fiserv.com/commercehub/docs/js] (https://dev.fiserv.com/commercehub/docs/api)
-* FAQs: [https://support.dev.fiserv.com/commercehub/] (https://support.dev.fiserv.com/commercehub/)
+* API Docs: [https://dev.fiserv.com/commercehub/docs/api](https://dev.fiserv.com/commercehub/docs/api)
+* Commerce Hub.js Reference: [https://dev.fiserv.com/commercehub/docs/js](https://dev.fiserv.com/commercehub/docs/api)
+* FAQs: [https://support.dev.fiserv.com/commercehub/](https://support.dev.fiserv.com/commercehub/)
 
 ### Repository & tools
 
-* GitHub repository: https://github.com/CommerceHub
-* Product demos and dev tools: https://CommerceHub.dev/
-* Commerce Hub CLI: https://dev.fiserv.com/commercehub/docs/CommerceHub-cli
-* API libraries: https://dev.fiserv.com/commercehub/docs/libraries
+* GitHub repository: [https://github.com/CommerceHub](https://github.com/CommerceHub)
+* Product demos and dev tools: [https://CommerceHub.dev/](https://CommerceHub.dev/)
+* Commerce Hub CLI: [https://dev.fiserv.com/commercehub/docs/CommerceHub-cli](https://dev.fiserv.com/commercehub/docs/CommerceHub-cli)
+* API libraries: [https://dev.fiserv.com/commercehub/docs/libraries](https://dev.fiserv.com/commercehub/docs/libraries)
 
 ### Additional resources
 
-* Commerce Hub system status: https://status.dev.fiserv.com/commercehub/
-* Commerce Hub community: http://irc.lc/freenode/CommerceHub
-* Switching to Commerce Hub: https://dev.fiserv.com/commercehub/docs/recipes/switching-to-CommerceHub
+* Commerce Hub system status: [https://status.dev.fiserv.com/commercehub/](https://status.dev.fiserv.com/commercehub/)
+* Commerce Hub community: [http://irc.lc/freenode/CommerceHub](http://irc.lc/freenode/CommerceHub)
+* Switching to Commerce Hub: [https://dev.fiserv.com/commercehub/docs/recipes/switching-to-CommerceHub](https://dev.fiserv.com/commercehub/docs/recipes/switching-to-CommerceHub)
 
 ### Staying up to date
 
@@ -35,7 +35,7 @@ Here are some resources that we recommend taking a look at!
 
 ## Setting up your account
 
-* Sign-up for an account here: https://dashboard.dev.fiserv.com/commercehub/register
+* Sign-up for an account here: [https://dashboard.dev.fiserv.com/commercehub/register](https://dashboard.dev.fiserv.com/commercehub/register)
 * Follow the instructions on the front page to help determine what type of integration you want to build
 * Activate your account! This is really important to complete so that you can payout to your account
 * As you start building out your integration, you’ll also want to be able to safely test. Make sure to get your test and live API keys. You can switch your account view to see test data by using the toggle on the left hand-side bar
