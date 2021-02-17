@@ -17,8 +17,8 @@
       ]
     },
     {
-      "name": "integrationType",
-      "value": "Integration Type",
+      "name": "integrationTypes",
+      "value": "Integration Types",
       "subcategories": [
         {
           "name": "cardPresent",
@@ -31,8 +31,8 @@
       ]
     },
     {
-      "name": "industryType",
-      "value": "Industry Type",
+      "name": "industryTypes",
+      "value": "Industry Types",
       "subcategories": [
         {
           "name": "retailQSR",
