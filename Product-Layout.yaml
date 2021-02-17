@@ -19,7 +19,7 @@ productPage:
             - description: Get Started with Commerce Hub.
             - link: 
               - type: markdown
-              - uri: /docs/getting-started.md
+              - uri: /docs/getting-started-new.md
           - contextualNavigationCard:
             - title: Tutorials
             - description: Learn how to integrate with Commerce Hub.
