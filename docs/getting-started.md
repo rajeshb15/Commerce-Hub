@@ -16,7 +16,7 @@ Follow the below steps to get an access to our development portal and use our AP
 
 ### 1. Sign up on our Developer Platform
 
-Head over to [Commerce-HUB](url) Developer platform and create an account.
+Head over to Developer platform and create an account.
 
 <!-- theme: info -->
 
