@@ -38,9 +38,9 @@ Please refer our [API page](Use-Our-APIs.md) to know about how to use Commerce H
 
 ### 4. Integrate to Commerce Hub
 
-- [Card Present](docs/?path=docs/Getting-Started/Getting-Started-CP.md) 
-- [Card Not Present](docs/?path=docs/Getting-Started/Getting-Started-CNP.md)
-- [Wallets](docs/?path=docs/Getting-Started/Getting-Started-Wallets.md)
+- [Card Present](?path=docs/Getting-Started/Getting-Started-CP.md) 
+- [Card Not Present](?path=docs/Getting-Started/Getting-Started-CNP.md)
+- [Wallets](?path=docs/Getting-Started/Getting-Started-Wallets.md)
 
 #### Transaction Types
 
