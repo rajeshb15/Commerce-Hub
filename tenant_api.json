@@ -13,14 +13,6 @@
         {
           "name": "enterprise",
           "value": "Enterprise"
-        },
-        {
-          "name": "smb",
-          "value": "SMB"
-        },
-        {
-          "name": "banking",
-          "value": "Banking"
         }
       ]
     },
