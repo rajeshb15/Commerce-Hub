@@ -4,7 +4,7 @@ Thank you for visiting commerce-HUB website. Our gateway provides a simple way t
 
 See below for the most popular options
 
-![Payment Methods](../../assets/images/card-types.png "")
+![Payment Methods](../assets/images/card-types.png "")
 
 Beyond accepting customer payments, our services include Tokenisation, 3DSecure, Pre-Authorisation functionality, capturing Charges, Refund, Canceling (void) charge, creating and managing Recurring Payments, Installments, Deferred Payments, Split Shipment, AVS and Payment URLs.
 
@@ -30,11 +30,11 @@ Go to the Apps page and create a Sandbox app.
 
 Once you're on the Apps page copy your API key and Secret Key.
 
-For most of our APIs you can just put the API Key into the header under the API-Key parameter. However, when you use our Payment APIs you'll need to add them to a [Message-Signature](Message-Signature.md) you an find out more about that in the next page.
+For most of our APIs you can just put the API Key into the header under the API-Key parameter. However, when you use our Payment APIs you'll need to add them to a [Message-Signature](?path=docs/Message-Signature.md) you an find out more about that in the next page.
 
 ### 3. Constructing the API call
 
-Please refer our [API page](Use-Our-APIs.md) to know about how to use Commerce Hub APIs.
+Please refer our [API page](?path=docs/Use-Our-APIs.md) to know about how to use Commerce Hub APIs.
 
 ### 4. Integrate to Commerce Hub
 
@@ -57,14 +57,5 @@ Please refer our [API page](Use-Our-APIs.md) to know about how to use Commerce H
 - Payment Token
 
 
-<!--
-
-https://docs.fiserv.com/docs/payments/docs/Welcome%20to%20Fiserv%20Payments.md
-+
-https://docs.fiserv.com/docs/payments/docs/1.%20Introduction
-%20to%20Fiserv%20Payments/Get%20started.md
-
-
->
 
 
