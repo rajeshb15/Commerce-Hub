@@ -79,19 +79,19 @@ productPage:
             - description: Use our sandbox to test your app end-to-end
             - link: 
               - type: markdown
-              - uri: ?path=docs/Getting-Started/Getting-Started-CP.md
+              - uri: /docs/Getting-Started/Getting-Started-CP.md
           - contextualNavigationCard:
             - title: Card Not Present
             - description: See how your app is doing
             - link: 
               - type: markdown
-              - uri: ?path=docs/Getting-Started/Getting-Started-CNP.md
+              - uri: /docs/Getting-Started/Getting-Started-CNP.md
           - contextualNavigationCard:
             - title: Wallets
             - description: Test with confidence
             - link: 
               - type: markdown # [externalLink | internalLink | markdown]
-              - uri: ?path=docs/Getting-Started/Getting-Started-Wallets.md
+              - uri: /docs/Getting-Started/Getting-Started-Wallets.md
       - journeyCard:
         - title: Deploy
         - description: 'When your app is ready for prime time, submit it for automated certification. 
