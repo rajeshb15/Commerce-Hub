@@ -19,7 +19,7 @@ productPage:
             - description: Get Started with Commerce Hub.
             - link: 
               - type: markdown
-              - uri: /docs/getting-started-new.md
+              - uri: /docs/getting-started.md
           - contextualNavigationCard:
             - title: Tutorials
             - description: Learn how to integrate with Commerce Hub.
@@ -46,7 +46,7 @@ productPage:
             - description: Explore all our APIs
             - link: 
               - type: internalLink
-              - uri: /docs/apis
+              - uri: ../api?type=post&path=/payments/v1/auths
           - contextualNavigationCard:
             - title: SDKs
             - description: Use SDKs to accelarate your development
@@ -75,23 +75,23 @@ productPage:
           - uri: /docs/test.md
         - contextualNavigationCards: #cnav card
           - contextualNavigationCard:
-            - title: Sandbox
+            - title: Card Present
             - description: Use our sandbox to test your app end-to-end
             - link: 
-              - type: internalLink
-              - uri: /sandbox
+              - type: markdown
+              - uri: ?path=docs/Getting-Started/Getting-Started-CP.md
           - contextualNavigationCard:
-            - title: Score Card
+            - title: Card Not Present
             - description: See how your app is doing
             - link: 
-              - type: internalLink
-              - uri: /scorecard
+              - type: markdown
+              - uri: ?path=docs/Getting-Started/Getting-Started-CNP.md
           - contextualNavigationCard:
-            - title: Unit Testing
+            - title: Wallets
             - description: Test with confidence
             - link: 
-              - type: internalLink # [externalLink | internalLink | markdown]
-              - uri: /testing
+              - type: markdown # [externalLink | internalLink | markdown]
+              - uri: ?path=docs/Getting-Started/Getting-Started-Wallets.md
       - journeyCard:
         - title: Deploy
         - description: 'When your app is ready for prime time, submit it for automated certification. 
