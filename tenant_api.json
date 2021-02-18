@@ -35,36 +35,20 @@
       "value": "Industry Types",
       "subcategories": [
         {
-          "name": "retailQSR",
-          "value": "Retail/QSR"
+          "name": "Airline",
+          "value": "Airline"
         },
         {
-          "name": "restuarant",
+          "name": "CAR_RENTAL",
+          "value": "Car Rental"
+        },
+        {
+          "name": "eCommerce",
+          "value": "eCommerce"
+        },
+        {
+          "name": "Restuarant",
           "value": "Restuarant"
-        },
-        {
-          "name":  "petroleum",
-          "value":  "Petroleum"
-        },
-        {
-          "name":  "supermarket",
-          "value":  "Supermarket"
-        },
-        {
-          "name":  "lodging",
-          "value":  "Lodging"
-        },
-        {
-          "name":  "airline",
-          "value":  "Airline"
-        },
-        {
-          "name":  "eCommerce",
-          "value":  "eCommerce"
-        },
-        {
-          "name":  "motoDirectMarketing",
-          "value":  "MOTO/Direct Marketing"
         }
       ]
     }
