@@ -34,7 +34,7 @@ For most of our APIs you can just put the API Key into the header under the API-
 
 ### 3. Constructing the API call
 
-Please refer our [API page](?path=docs/Use-Our-APIs.md) to know about how to use Commerce Hub APIs.
+Please refer our [API page](../api?type=post&path=/payments/v1/auths) to know about how to use Commerce Hub APIs.
 
 ### 4. Integrate to Commerce Hub
 
