@@ -11,7 +11,7 @@ The integration of merchant with Commerce Hub in order to process the Online Pay
 Merchants may want to build their own UI and manage cardholder checkout within their own website, they may use commerce Hub [RESTful APIs](https://docs.firstdata.com/org/Commerce-Hub/docs/api).
 
 <!-- theme: warning -->
->
+
 > Merchants are required to have the relevant PCI Compliance capabilities to process and store card data.
 
 ### Hosted Payment Page
