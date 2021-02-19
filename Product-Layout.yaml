@@ -46,7 +46,7 @@ productPage:
             - description: Explore all our APIs
             - link: 
               - type: internalLink
-              - uri: ../api?type=post&path=/payments/v1/auths
+              - uri: /api?type=post&path=/payments/v1/auths
           - contextualNavigationCard:
             - title: SDKs
             - description: Use SDKs to accelarate your development
