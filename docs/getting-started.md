@@ -44,11 +44,11 @@ Please refer our [API page](../api?type=post&path=/payments/v1/auths) to know ab
 
 #### Transaction Types
 
-- [Charge](../Transactions/Charges.md)
-- [Capture](../Transactions/Capture.md)
-- [Cancel](../Transactions/Cancel.md)
-- [Refund](../Transactions/Refund.md)
-- [Inquiry](../Transactions/Inquiry.md)
+- [Charge](?path=docs/Transactions/Charges.md)
+- [Capture](?path=docs/Transactions/Capture.md)
+- [Cancel](?path=docs/Transactions/Cancel.md)
+- [Refund](?path=docs/Transactions/Refund.md)
+- [Inquiry](?path=docs/Transactions/Inquiry.md)
 
 #### Value Added Services
 
