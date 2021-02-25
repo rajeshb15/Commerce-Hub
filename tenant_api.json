@@ -60,6 +60,6 @@
     "apiSpecification": "/v1/products/commercehub/swagger",
     "layout": "/v1/products/commercehub/layouts/productPage",
     "documentation": "/v1/products/commercehub/docs",
-    "documenttree": '/v1/products/commercehub/doctree'
+    "documenttree": "/v1/products/commercehub/doctree"
   }
 }
