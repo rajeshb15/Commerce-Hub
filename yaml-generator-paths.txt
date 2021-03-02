@@ -7,4 +7,8 @@
 "payments-orders-capture.yaml",
 "payments-orders-refund.yaml",
 "transaction-inquiry.yaml",
-"order-inquiry.yaml"
+"order-inquiry.yaml",
+"payments-vas-accounts-verification.yaml",
+"payments-vas-security-credentials.yaml",
+"payments-vas-tokenize.yaml",
+"payments-vas-accounts-information.yaml"
