@@ -60,6 +60,6 @@
     "apiSpecification": "/v1/apis",
     "layout": "/v1/layouts",
     "documentation": "/v1/docs",
-    "documenttree": "/v1/doctree"
+    "documenttree": "/v1/docs"
   }
 }
