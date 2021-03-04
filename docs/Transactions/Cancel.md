@@ -29,7 +29,7 @@ If the customer has canceled the order or if fraud is suspected, the merchant wo
 
 ##### Component : transactionBatch
 
-Variable | Type| Maximum Length | Description/Values|
+|Variable | Type| Maximum Length | Description/Values|
 |---------|----------|----------------|---------|
 |`julianDay` | *string* | 3 | The day the current batch was opened, 001-366.|
 |`batchNumber`| *string* | 6 | The batch number within the Julian day for this transaction. values range from 000001 through 000999.| 
@@ -40,7 +40,7 @@ Variable | Type| Maximum Length | Description/Values|
 
 ##### Component : processorReservedDetails
 
-Variable | Type| Maximum Length | Description/Values|
+|Variable | Type| Maximum Length | Description/Values|
 |---------|----------|----------------|---------|
 |`transactionDate` | *string* | 10 | Date the transaction occured |
 |`transactionTime`| *string* | 20 | Timestamp in ISO 8601 fromat YYYY-MM-DDThh:mm:ssZ | 

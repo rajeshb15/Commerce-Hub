@@ -19,13 +19,13 @@
                     - description: Get Started with Developer Portal.
                     - link:
                         - type: markdown
-                        - uri: docs/getting-started.md
+                        - uri: /docs/getting-started.md
                 - contextualNavigationCard:
                     - title: Tutorials
                     - description: Learn how to integrate with Developer Portal.
                     - link:
                         - type: markdown
-                        - uri: docs/tutorials.md
+                        - uri: /docs/tutorials.md
                 - contextualNavigationCard:
                     - title: Video
                     - description: Watch how to create more unified commerce
@@ -39,7 +39,7 @@
         Our lightweight SDK’s and plug-in’s might be the fastest path to completing your app.'
             - link:
                 - type: markdown
-                - uri: docs/build.md
+                - uri: /docs/build.md
             - contextualNavigationCards:
                 - contextualNavigationCard:
                     - title: API Reference
@@ -53,14 +53,14 @@
                     - cardType: reference | page
                     - link:
                         - type: markdown
-                        - uri: docs/sdks.md # => http://dev.fiserv.com/docs/api
+                        - uri: /docs/sdks.md # => http://dev.fiserv.com/docs/api
                 - contextualNavigationCard:
                     - title: Sample Code
                     - description: Free just like Costco samples & no limit
                     - cardType: reference | page
                     - link:
                         - type: markdown
-                        - uri: docs/samples.md # => http://dev.fiserv.com/docs/api
+                        - uri: /docs/samples.md # => http://dev.fiserv.com/docs/api
         - journeyCard:
             - title: Test
             - description: 'Flex your app end-to-end in our full-featured Sandbox.
@@ -72,7 +72,7 @@
         *Requires registration'
             - link:
                 - type: markdown
-                - uri: docs/test.md
+                - uri: /docs/test.md
             - contextualNavigationCards: #cnav card
                 - contextualNavigationCard:
                     - title: Sandbox
@@ -100,14 +100,14 @@
         *Requires registration'
             - link:
                 - type: markdown
-                - uri: docs/deploy.md
+                - uri: /docs/deploy.md
             - contextualNavigationCards:
                 - contextualNavigationCard:
                     - title: Certify
                     - description: Get your stamp of approval from us
                     - link:
                         - type: markdown
-                        - uri: docs/certify.md
+                        - uri: /docs/certify.md
                 - contextualNavigationCard:
                     - title: Deploy
                     - description: Ready, set, Deploy!
@@ -126,16 +126,16 @@
             - description: Get Started with Commerce Hub.
             - link:
                 - type: markdown
-                - uri: docs/getting-started.md
+                - uri: /docs/getting-started.md
         - featureContent:
             - title: Card Present
             - description: Get Started with Commerce Hub Card Present.
             - link:
                 - type: markdown
-                - uri: docs/Getting-Started/Getting-Started-CP.md
+                - uri: /docs/Getting-Started/Getting-Started-CP.md
         - featureContent:
             - title: Card Not Present
             - description: Get Started with Commerce Hub Card Not Present.
             - link:
                 - type: markdown
-                - uri: docs/Getting-Started/Getting-Started-CNP.md
+                - uri: /docs/Getting-Started/Getting-Started-CNP.md
