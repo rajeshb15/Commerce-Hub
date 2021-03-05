@@ -31,7 +31,7 @@ Charges can be initiated in two ways; either as Sale or Pre-Auth and is defined 
 
 #### Component: paymentSource
 
-Variable | Type| Maximum Length | Description/Values|
+|Variable | Type| Maximum Length | Description/Values|
 |---------|----------|----------------|---------|
 |`sourceType` | *string* | 15 | Payment [source type](../Master-Data/Source-Type.md). |
 |`cardData`| *string* | 19 | Encrypted or unencrypted card data (e.g. PAN, EMV, Track, etc.). | 
