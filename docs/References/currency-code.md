@@ -14,7 +14,7 @@ Currency code helps to figure out in which currency the transaction is performed
 and some have 3 decimals, such as BHD. For example, 10 GBP is submitted as 1000, 
 whereas 10 JPY is submitted as 10.
 
-Currency | Code | Decimals
+| Currency | Code | Decimals
 ------- | ------- | -------
 Afghani | AFN | 2
 Algerian Dinar | DZD | 2
