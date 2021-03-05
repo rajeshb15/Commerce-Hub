@@ -30,7 +30,7 @@ Go to the Apps page and create a Sandbox app.
 
 Once you're on the Apps page copy your API key and Secret Key.
 
-For most of our APIs you can just put the API Key into the header under the API-Key parameter. However, when you use our Payment APIs you'll need to add them to a [Message-Signature](?path=docs/Message-Signature.md) you an find out more about that in the next page.
+For most of our APIs you can just put the API Key into the header under the API-Key parameter. However, when you use our Payment APIs you'll need to add them to a [Message-Signature](?path=docs/References/Message-Signature.md) you an find out more about that in the next page.
 
 ### 3. Constructing the API call
 
